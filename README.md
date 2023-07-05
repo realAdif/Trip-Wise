@@ -2,7 +2,7 @@
 
   <p>Welcome to Trip Wise, an innovative and user-friendly web application developed to serve as a travel agent. This README file aims to provide you with essential information about the front-end development of the Trip Wise website.</p>
 
-👉 Live Demo: <a href='https://fitness-zone-rho.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://trip-wise-48cdkemfo-realadif.vercel.app/'>Live Demo</a>
 
 <h2>Build with</h2>
 » React JS<br>
