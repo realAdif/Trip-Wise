@@ -19,3 +19,5 @@
 <p>Visitors can learn about the different services offered by the Fitness Zone gym, such as personal training, and group classes.</p>
 <br>
 <h2>Screenshots of the Project</h2>
+
+![Alt text](image-1.png)
